@@ -1,0 +1,13 @@
+{
+  "name": "pomodoro-timer",
+  "version": "1.0.0",
+  "description": "A Pomodoro timer application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "sqlite3": "^4.0.6"
+  }
+}
